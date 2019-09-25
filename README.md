@@ -122,6 +122,8 @@ Built and iterated by the following nice people
 * [kirkas](https://github.com/kirkas)
 * [mrmrs](http://mrmrs.io)
 
+Added a trial edit
+
 # License
 
 The MIT License (MIT)
